@@ -3,5 +3,5 @@ print(a)
 a = 5
 b = 7
 c = 10
-d = 30
+d = 20
 print(a+b+c+d) 
